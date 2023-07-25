@@ -1,8 +1,7 @@
 package com.jog.leetcode.free;
 
+import com.jog.leetcode.free.problem1.Problem1;
 import org.junit.jupiter.api.Test;
-
-import java.util.Arrays;
 
 import static org.junit.jupiter.api.Assertions.*;
 

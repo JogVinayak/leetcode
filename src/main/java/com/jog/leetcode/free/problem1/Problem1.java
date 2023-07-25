@@ -1,4 +1,4 @@
-package com.jog.leetcode.free;
+package com.jog.leetcode.free.problem1;
 
 
 import java.util.*;
